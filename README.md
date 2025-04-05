@@ -2,6 +2,13 @@
 
 # GPT-Null Project Template
 
+![top language](https://img.shields.io/github/languages/top/gpt-null/template)
+![code size](https://img.shields.io/github/languages/code-size/gpt-null/template)
+![last commit](https://img.shields.io/github/last-commit/gpt-null/template)
+![issues](https://img.shields.io/github/issues/gpt-null/template)
+![contributors](https://img.shields.io/github/contributors/gpt-null/template)
+![License](https://img.shields.io/github/license/gpt-null/template)
+
 Since GPT-Null is an open organization welcoming anyone to contribute, we have created a project template for you to follow when creating a new repository. This include templates for the `README.md` file and a `LICENSE` file. All projects should use the [MIT License](https://opensource.org/licenses/MIT) unless otherwise specified.
 
 All projects have _one owner_, which is responsible for the project. The owner is the person who created the project and is responsible for maintaining it. Projects are generally open to contributions from anyone, but the owner has the final say on what changes are made to the project.
