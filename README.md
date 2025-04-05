@@ -4,7 +4,7 @@
 
 Since GPT-Null is an open organization welcoming anyone to contribute, we have created a project template for you to follow when creating a new repository. This include templates for the `README.md` file and a `LICENSE` file. All projects should use the [MIT License](https://opensource.org/licenses/MIT) unless otherwise specified.
 
-All projects have one _owner_, which is responsible for the project. The owner is the person who created the project and is responsible for maintaining it. Projects are generally open to contributions from anyone, but the owner has the final say on what changes are made to the project.
+All projects have _one owner_, which is responsible for the project. The owner is the person who created the project and is responsible for maintaining it. Projects are generally open to contributions from anyone, but the owner has the final say on what changes are made to the project.
 
 **This template is not a requirement, but a strong recommendation to follow in order to stay consistent across all GPT-Null projects.**
 
@@ -34,7 +34,8 @@ You can find all _GPT-Null_ assets in the [assets](./assets) directory. This inc
 
 ## Requirements
 
--   **[requirement]:** [version] <!-- [version] or higher -->
+-   **[requirement1]:** [version] <!-- [version] or higher -->
+-   **[requirement2]:** [version] <!-- [version] or lower -->
 
 ## Installation
 
